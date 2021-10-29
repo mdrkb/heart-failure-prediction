@@ -10,7 +10,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 That's why in this project, we will try several machine learning classification models to come up with a solution. We'll try to predict DEATH_EVENT of a person based on a set of attributes.
 
-Original soruce: https://github.com/mdrkb/mlcamp/tree/main/07-midterm-project
+Original source: https://github.com/mdrkb/mlcamp/tree/main/07-midterm-project
 
 ## Dataset
 
