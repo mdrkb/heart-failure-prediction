@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.0
+notebook
+tqdm
+ipywidgets
+xgboost==1.5.0
+flask
+requests
+waitress
